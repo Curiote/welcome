@@ -350,7 +350,7 @@ ul.btn li:last-child {
 .header {
      width: 100%;
      padding: 73px 80px;
-     background: url(../images/hearder.jpg);
+     background: rgb(4, 4, 4);
      background-size: 100% 100%;
      background-repeat: no-repeat;
 }
@@ -360,6 +360,11 @@ ul.btn li:last-child {
      border-radius: 50px;
      opacity: 0.9;
      padding: 40px 35px;
+}
+
+.headimg {
+     width: 20%;
+     height: 20%;
 }
 
 .logo a {
